@@ -1,0 +1,122 @@
+body{
+    background-image: url('../afbeeldingen/background.jpg');
+    background-size: cover;
+}
+
+div.content{
+    background-color: rgba(245, 245, 245, 0.08);
+    width: 1050px;
+    margin: 25px;
+    border: solid black 2px;
+    margin-top: 45px;
+    padding-left: 8px;
+    padding-bottom: 10px;
+    
+}
+
+th{
+    text-align: left;
+    font-size: 20px;
+    font-family: calibri;
+    color: white;
+    padding-left: 8px;
+}
+
+td{
+    color: white;
+    width: 90%;
+    padding-bottom: 13px;
+    margin-left: 8px;
+}
+
+h1{
+   color: #ff6126;
+    padding-left: 8px;
+    font-family: calibri;
+    text-shadow: 1px 1px black;
+}
+
+a{
+    color: #ff6126;
+    font-size: 22px;
+}
+
+h2{
+    color: #ff6126;
+    font-size: 40px;
+    margin-left: 8px;
+    text-shadow: 1px 1px black;
+}
+
+img.banner{
+    float: left;
+}
+
+img.home{
+    float: right;
+    width: 50px;
+    height: 40px;
+    margin-right: 820px;
+    margin-top: 220px;
+}
+
+p.detail{
+    margin-left: 8px;
+    font-size: 21px;
+    color: white;
+    margin-right: 8px;
+}
+
+p.detail2{
+    margin-left: 8px;
+    color: white;
+}
+
+p.lees{
+    margin-left: 8px;
+}
+
+div.addpage{
+    width: 150px;
+    height: 100px;
+    float: right;
+    margin-right: 800px;
+    margin-top: 210px;
+    border: solid #ff6126 2px;
+    height: 40px;
+    border-radius: 25px;
+}
+
+a.voegtoe{
+    margin-left: 10px;
+    margin-top: 15px;
+    border-radius: 25px;
+}
+    
+input[type="text"]{
+    width: 250px;
+    margin-left: 150px;
+}
+
+input.username[type="text"]{
+    width: 250px;
+    margin-left: 116px;
+}
+
+p{
+    color: #ff6126;
+}
+
+textarea.sum{
+    margin-left: 120px;
+}
+
+img.homeform{
+    float: right;
+    width: 50px;
+    height: 40px;
+    margin-top: -205px;
+}
+
+    
+    
